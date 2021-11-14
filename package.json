@@ -1,0 +1,15 @@
+{
+  "name": "testeora",
+  "version": "1.0.0",
+  "private": true,
+  "description": "testeora app",
+  "keywords": [
+    "myapp"
+  ],
+  "dependencies": {
+    "oracledb": "^5.3.0"
+  },
+  "author": "You",
+  "license": "MIT"
+}
+

@@ -1,0 +1,7 @@
+#
+# Não esquecer que precisa do diretorio com client do oracle
+# oracledb.initOracleClient({ libDir: '..\\testeoracle\\oracle' });
+#
+
+/node_modules
+/oracle
